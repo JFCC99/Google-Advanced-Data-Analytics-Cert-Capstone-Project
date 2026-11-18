@@ -47,10 +47,10 @@ satisfaction level, workload, tenure, salary, and other HR data points?
 - Use the model to score current employees monthly and flag at-risk individuals
 
 ## Files
-- `Salifort_Motors_JUP.ipynb` — Full Jupyter notebook with EDA and models
-- `HR_comma_sep.csv` — Employee survey dataset
-- `PACE_Strategy_Document` — Project planning and reflection document
-- `Executive_Summary` — One page summary for stakeholders
+- [`Salifort Motors.ipynb`](Salifort%20Motors.ipynb) — Full Jupyter notebook with EDA and models
+- [`HR_comma_sep.csv`](HR_comma_sep.csv) — Employee survey dataset
+- [`Salifort_Motors_PACE_Strategy_Document.pdf`](Salifort_Motors_PACE_Strategy_Document.pdf) — Project planning and reflection document
+- [`Salifort_Motors_Executive_Summary.pdf`](Salifort_Motors_Executive_Summary.pdf) — One page summary for stakeholders
 
 ## Certificate
 Google Advanced Data Analytics Professional Certificate — Course 6 Capstone
